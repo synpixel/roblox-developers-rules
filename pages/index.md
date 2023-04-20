@@ -131,3 +131,7 @@ C++ is bad lang!! stop using!!
 ## Rule 16: You must submit all your personal info to synpixel
 
 _plz dont actually do it_
+
+## Rule 17: NO DISRESPECTING SYNPIXEL
+
+guys umm plzzzzzzzz dont disrpect me buecause uhh am gonna hop on my main so um stop plz
