@@ -80,3 +80,7 @@ Please, refrain from saying anything negative about Roast. We as a community won
 ## Rule 13: NO HATING ON VERCEL
 
 Vercel is a great host, and any hate towards it will be severely punished.
+
+## Rule 14: No Python
+
+Python is bad lang!! stop using!!
