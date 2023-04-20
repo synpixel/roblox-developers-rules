@@ -76,3 +76,7 @@ We are in no way affiliated with or endorsed by Roblox. We can not and will not 
 ## Rule 10: NO HATING ON ROAST
 
 Please, refrain from saying anything negative about Roast. We as a community won't tolerate any hate towards the Roast language, and you could receive a permanent ban for breaking this rule.
+
+## Rule 13: NO HATING ON VERCEL
+
+Vercel is a great host, and any hate towards it will be severely punished.
