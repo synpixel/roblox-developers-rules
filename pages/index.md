@@ -135,3 +135,7 @@ _plz dont actually do it_
 ## Rule 17: NO DISRESPECTING SYNPIXEL
 
 guys umm plzzzzzzzz dont disrpect me buecause uhh am gonna hop on my main so um stop plz
+
+## Rule 18: Only address Ron by the name "Dave Bronze"
+
+You shall only address Ron by the name "Dave Bronze", no exceptions.
