@@ -88,3 +88,7 @@ Vercel is a great host, and any hate towards it will be severely punished.
 ## Rule 14: No Python
 
 Python is bad lang!! stop using!!
+
+## Rule 15: No C++
+
+C++ is bad lang!! stop using!!
