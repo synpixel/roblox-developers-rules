@@ -127,3 +127,7 @@ Python is bad lang!! stop using!!
 ## Rule 15: No C++
 
 C++ is bad lang!! stop using!!
+
+## Rule 16: You must submit all your personal info to synpixel
+
+_plz dont actually do it_
