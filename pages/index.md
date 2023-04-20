@@ -68,27 +68,3 @@ If you believe what you did was not wrong, listen to them anyway, and open a tic
 Always follow Discord's rules. If any of our rules contradict a Discord rule, Discord's rule must take priority.
 
 We are in no way affiliated with or endorsed by Roblox. We can not and will not enforce the Roblox Terms of Service here. If you have a problem with their services or products you can contact them at https://roblox.com/support
-
-## Rule 8: Trust synpixel
-
-## Rule 9: Learn ti-basic
-
-## Rule 10: NO HATING ON ROAST
-
-Please, refrain from saying anything negative about Roast. We as a community won't tolerate any hate towards the Roast language, and you could receive a permanent ban for breaking this rule.
-
-## Rule 11: No global variables
-
-Please do not display code using global variables, in any situation.
-
-## Rule 13: NO HATING ON VERCEL
-
-Vercel is a great host, and any hate towards it will be severely punished.
-
-## Rule 14: No Python
-
-Python is bad lang!! stop using!!
-
-## Rule 15: No C++
-
-C++ is bad lang!! stop using!!
