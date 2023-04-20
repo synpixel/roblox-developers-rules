@@ -142,7 +142,7 @@ You shall only address Ron by the name "Dave Bronze", no exceptions.
 
 ## Rule 19: Follow the Roblox Lua Style Guide
 
-You must follow the Roblox Lua Style Guide at all times, even for the smallest snippets of code, for instance:
+You must follow the [Roblox Lua Style](https://roblox.github.io/lua-style-guide/) Guide at all times, even for the smallest snippets of code, for instance:
 
 - Do not put multiple statements in one line:
 
