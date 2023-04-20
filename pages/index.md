@@ -139,3 +139,24 @@ guys umm plzzzzzzzz dont disrpect me buecause uhh am gonna hop on my main so um 
 ## Rule 18: Only address Ron by the name "Dave Bronze"
 
 You shall only address Ron by the name "Dave Bronze", no exceptions.
+
+## Rule 19: Follow the Roblox Lua Style Guide
+
+You must follow the Roblox Lua Style Guide at all times, even for the smallest snippets of code, for instance:
+
+- Do not put multiple statements in one line:
+
+```lua
+if not rules.good then
+    return
+end
+```
+
+- Respect the casing rules:
+
+```lua
+local CONSTANT = "foo"
+local trimmedConstant = CONSTANT:sub(1, 2)
+```
+
+Anyone breaking the rules of this styling bible will be rewarded with a warning.
