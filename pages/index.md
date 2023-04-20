@@ -1,3 +1,38 @@
+## Disclaimer
+
+### Community safety comes first
+
+We will prioritize the safety of our members first. If you threaten our member's livelihood, financial state, or security, you will be removed from the server.
+
+### Always listen to moderators
+
+These rules are non-exhaustive and cannot account for every possible scenario. If a moderator asks you to stop doing something, listen to them.
+
+Administrators are still moderators and must also be listened to.
+
+### Rules are subject to change
+
+The rules above may change at any time and without prior notice. You are responsible for ensuring you are always complying with them. Ignorance is not an excuse.
+
+We may post an announcement when the rules have been updated.
+
+### Failure to comply may result in more severe punishments
+
+Generally, we will warn you verbally to stop first. If you continue, you may be:
+
+- Given a more prominent warning that moderators can review in the future.
+- Muted so you are unable to talk in the server for an amount of time.
+- Roles may be taken away.
+- You may be kicked.
+- You may be banned.
+- Reported directly to authorities for further investigation in extreme circumstances or if required by Discord.
+
+### How to appeal a ban
+
+We provide a Discord server to appeal bans. If you have been banned, you can appeal at: https://discord.gg/k9jVfFD
+
+You cannot appeal on someone else's behalf, this is a voluntary service and we will not guarantee any response times or actions.
+
 ## Rule 1: Respect other members
 
 This means:
