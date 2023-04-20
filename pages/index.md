@@ -72,3 +72,7 @@ We are in no way affiliated with or endorsed by Roblox. We can not and will not 
 ## Rule 8: Trust synpixel
 
 ## Rule 9: Learn ti-basic
+
+## Rule 10: NO HATING ON ROAST
+
+Please, refrain from saying anything negative about Roast. We as a community won't tolerate any hate towards the Roast language, and you could receive a ban for breaking this rule.
