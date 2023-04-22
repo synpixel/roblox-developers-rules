@@ -164,3 +164,7 @@ Anyone breaking the rules of this styling bible will be rewarded with a warning.
 ## Rule 20: Don't take action on synpixel for NSFW comments
 
 You shall not take any moderation action on synpixel for making NSFW comments about casual content.
+
+## Rule 21: It's joever
+
+its joever
