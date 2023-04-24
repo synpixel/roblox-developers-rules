@@ -171,7 +171,7 @@ its joever
 
 ## Rule 22: There was no ping
 
-Bot: @everyone
-Everyone: starts to chat and blow up chat
-Admins: what ping? no pings happened here today, we as the admins (government) would NEVER lie to you!
+Bot: `@everyone`  
+Everyone: starts to chat and blow up chat  
+Admins: what ping? no pings happened here today, we as the admins (government) would NEVER lie to you!  
 Everyone: Ok
