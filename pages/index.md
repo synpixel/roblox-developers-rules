@@ -175,3 +175,7 @@ Bot: `@everyone`
 Everyone: starts to chat and blow up chat  
 Admins: what ping? no pings happened here today, we as the admins (government) would NEVER lie to you!  
 Everyone: Ok
+
+## Rule 23: One Piece is NOT mid
+
+One Piece is NOT mid. stop saying One Piece is mid. ITS GOOD!! STOP SAYING ITS MID!! ONE PIECE IS NOT MID!! thank you.
